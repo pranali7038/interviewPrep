@@ -1,0 +1,105 @@
+Questions-
+1)Git vs GitHub diff 
+2)Git Init actually works
+3)Indexing Session and Cookies
+4)What are some alternatives of github? 
+5)What are cookies and sessions?Explain their difference.
+6)What is ReactJS and what happens when you change a state? Is it a library or framework?
+7)What are components in reactjs?
+8)What is virtual DOM in react?
+9)What is JSX? How JSX is parsed into Javascript?
+10)What is the use of Webpack? 
+11) Suppose website is very fast and I'm willing to make it slow what actions could be taken?
+12) What is CDN?How CDN works?
+13) What is Indexing in Database? Do Indexing affect only fetching or it will affect insertion and updation also? 
+14) How will you move a commit from one branch to another branch? 
+15)What does git stash command do
+16)Which website will be more faster the one built with javascript or the one built with react?
+17) What actions could be taken to make a website faster
+18)Where session data is get stored in backend servers?
+19)Git stores all the data in which folder? 
+20) How gitignore file works (kindly read this in detail)
+21)How to verify a email? Which is the best method to verify the email client-based or server-based?
+22)Will session work if we decline cookies
+23)When reopening a website after closing it session made on that website get destroyed automatically and you need to login again. why so?
+24)What is Github's cherry-pick command? 
+25)What is DOM
+26) What is encryption and decryption? What is hashing ?
+27)What is the purpose of salting? 
+28) How JWT works?
+29)How symmetric and asymmetric algo works?
+30)What is encryption and decryption? Different algos for encryption and hashing?
+31)Can be there two computers with same public IP? 
+32)How router assignes IP to computers? What happens when you hit a url when you are connected with a router? 
+33)What if two computers connected with same router are assigned same IP address? 
+34)Tell me the names of some servers you've used?
+35)difference between js, java, jquery
+36)how can we insert delay in the code of a website
+37)JavaScript and React are Compiled or Interpreted languages ?
+38) Can we use git without GitHub ?
+39)what we use for password storing in database? 
+40)How to design Captcha from scratch ?
+41)Difference between Libary and framework?Is react a library or a framework?
+42) Suppose your site is experiencing high traffic, causing lag. How would you manage it to reduce server load?
+43) Lift use which data structure
+44)About react life cycle
+45)Which language is used in react?
+46)What is event bubbling? How react re renders?
+47)JavaScript var, const and let scope related questions. 
+48) Difference between Cookies and Local Storage, and when we use them
+49)Can two device can have same ip address? if yes, how?
+50)private and public keys
+51)Tell me CNS network layers
+52)Have you used platforms similar to github ?
+53)Tell me diff between hashing & encryption
+54)Can you exclude nested files using .gitignore inside that folder ?
+55)What is cookie and can you store passwords on it
+56)Which is more efficient between JavaScript and jQuery
+57)Javascript synchronous or asynchronous 
+58)can we validate forms with html, css alone.
+59)Encryption: Asymmetric encryption with example.
+60)Is basic email registration through JavaScript sufficient for security purposes? What are the alternatives?
+61) Explain horizontal and vertical scaling. 
+62)In Linux, how can you check which process or application is consuming the most storage/memory and how can you remove it?
+63) How do you terminate a running process? Which process is utilizing the most resources? 
+64)What is a Docker volume? Differentiate between an image and a container in Docker. How would you take backups of your servers?
+65)What are the different mail services and protocols and they work at which layer (OSI Model)
+66)What is the session bean
+67)Tell me about the Normalization in SQL.
+68)Explain and draw box model of CSS
+69)How you would access dom in Jquery,then how in JS?
+70What is the minimal way to create a WordPress theme
+71)How much minimum files required to build WordPress theme?
+72)What are client side and server side validation?
+73)Which is better React JS or Vue JS? Why?
+74)First question was 'Have you retrieved more than 3200 tweets which is hard limit by Twitter?' 
+75)How to export a contacts backup in csv format without user intervention?
+76)Is there a way to tackle SQL Injection attack?
+78)What are rainbow tables?
+79)components of react js
+80)Can we use GitHub without Git?
+81)Where is all the Git data stored
+82)Explanation of Gitignore.
+83)what ia version control and git commands for version control.
+84)Understanding Rainbow tables.
+
+
+
+
+
+***second technical round(Scenario Based)*** 
+1)How will you build a youtube like automatic video quality controller? 
+Don't just read theory. Read how you can check network latency and how you will switch in between different quality of 
+videos on the basis of network latency? Without using any javascript library.?How would implement the traversing in the video
+
+2) How will you implement a OTP verification tool without using backend? 
+
+3)Suppose there is an elevator and a person is standing on the 6th floor another person is 
+standing on the 10th floor then how it will work and what can be the algo and data structure used in the working of elevator?
+
+4)Whatsapp says one-to-one encryption ? how does that may happen? where it may happen on user's device or where msg is stored hashed in db ? 
+Where it may get decrypted ?
+
+5)if we want to set up image based captcha?how would you implement it.(without using DB).
+
+6)Is there anything in JavaScript which can be done by JQuery and not by JavaScript
